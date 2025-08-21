@@ -3,7 +3,9 @@
 <!--
 **Monster77-glitch/Monster77-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:<img width="1024" height="1024" alt="generated-image" src="https://github.com/user-attachments/assets/4e0cb8b1-98a2-4936-9370-fe1d102a2c27" />
+Here are some ideas to get you started:
+   
+<img width="1024" height="1024" alt="generated-image" src="https://github.com/user-attachments/assets/caea094c-1034-4c5e-838b-8bc97c5f3271" />
 
 
 - 🔭 I’m currently working on my skill...
